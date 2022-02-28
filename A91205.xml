@@ -1,0 +1,562 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A legal resolution of two important quæres of general present concernment. Clearly demonstrating from our statute, common and canon laws, the bounden duty of ministers, &amp; vicars of parish churches, to administer the sacraments, as well as preach to their parishioners; with the legal remedies to reclaim them from, or punish and remove them for their wilfull obstinacy in denying the sacraments to them. / By William Prynne Esq; a bencher of Lincolns Inne; to whom these quæres were newly propounded by some clients.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91205</idno>
+            <idno type="STC">Wing P3994</idno>
+            <idno type="STC">Thomason E495_1</idno>
+            <idno type="STC">ESTC R203242</idno>
+            <idno type="EEBO-CITATION">99863271</idno>
+            <idno type="PROQUEST">99863271</idno>
+            <idno type="VID">115461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115461)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 78:E495[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A legal resolution of two important quæres of general present concernment. Clearly demonstrating from our statute, common and canon laws, the bounden duty of ministers, &amp; vicars of parish churches, to administer the sacraments, as well as preach to their parishioners; with the legal remedies to reclaim them from, or punish and remove them for their wilfull obstinacy in denying the sacraments to them. / By William Prynne Esq; a bencher of Lincolns Inne; to whom these quæres were newly propounded by some clients.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[2], 24, 27-30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the yeare, 1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 2nd".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Sacraments --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115461:1" rendition="simple:additions"/>
+            <p>A LEGAL RESOLUTION OF TWO Important Quaeres Of general preſent Concernment. Clearly demonſtrating from our <hi>Statute, Common</hi> and <hi>Canon Laws,</hi> the boun<g ref="char:EOLhyphen"/>den duty of Miniſters, &amp; Vicars of <hi>Pariſh Churches,</hi> to adminiſter the Sacraments, as well as Preach to their Pariſhioners; with the Legal Remedies to reclaim them from, or puniſh and remove them for their wil<g ref="char:EOLhyphen"/>full obſtinacy in denying the Sa<g ref="char:EOLhyphen"/>craments to them.</p>
+            <p>
+               <hi>By</hi> William Prynne <hi>Eſq; a Bencher of</hi> Lincolns Inne; <hi>to whom theſe Quaeres were newly pro<g ref="char:EOLhyphen"/>pounded by ſome Clients.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Auguſt.</hi> contr. Creſconium Grammalicum, l. 2. c. 10.</bibl>
+               <p> 
+                  <hi>Chriſtiana ſane in vobis Sacramenta cognoſco, et</hi> in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is illud quoque diverſum improbo acreſpno, quod cumeadem etiam in Schiſmate habeatis, eadem Catholicis exufflatis. Prorſus agnoſcit in vobis Eccleſia cuncta quae ſua ſunt, nec ideo non ſunt ejus quia apud vos inveniuntur. A<g ref="char:EOLhyphen"/>pud vos quippe aliena ſunt, ſed cum vos correctos recipit cujus ſunt, fiunt etiam ſalubriter vestra, quae pernicioſe habebatis aliena. Diſcordia vos poſſedit ſub titulo pacis; Ergo, diſcordia pellatur, pax introducatur.</p>
+            </q>
+            <p>LONDON, Printed by <hi>F. L.</hi> in the Yeare, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115461:2"/>
+            <pb n="1" facs="tcp:115461:2"/>
+            <head>
+               <hi>A</hi> Legal Reſolution <hi>of Two</hi> Im<g ref="char:EOLhyphen"/>portant Quaeres <hi>of general preſent</hi> Concernment, <hi>&amp;c.</hi>
+            </head>
+            <div type="part">
+               <head>The Caſe and Quaeres propounded.</head>
+               <p>
+                  <hi>A.</hi> Is preſented, instituted, inducted to the <hi>Vicaridge and Pariſh Church of B.</hi> having immediate and ſole Cure of Soules (the Rectory being impropriate) and receives the whole Profits thereof from the Pariſhio<g ref="char:EOLhyphen"/>ners, to whom <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e uſually preacheth; but yet (after many friendly Sollicitations and Meetings) peremptorily denieth publikely to administer the Sacraments of the Lords Sup<g ref="char:EOLhyphen"/>per and Baptiſm to the Major part of the Pariſhioners; <hi>or</hi> to any of them, as his Pariſhioners; <hi>but only to</hi> ſome few in private, as <hi>Members of his New gathered Con<g ref="char:EOLhyphen"/>gregation;</hi> to the great Diſcontent, Grief, Injury of the Generality of the Pariſhioners. <hi>Who thereupon deſire to be reſolved,</hi>
+               </p>
+               <p>1. Whether <hi>A.</hi> their Vicar <hi>by the</hi> Laws of <hi>England,</hi> accepting of this <hi>Parochial Vicaridge and Cure,</hi> and re<g ref="char:EOLhyphen"/>ceiving the <hi>Profits</hi> thereof be not in point of Right, Ju<g ref="char:EOLhyphen"/>ſtice, Law, Equity, <hi>Ex Officio mero,</hi> obliged duly to ad<g ref="char:EOLhyphen"/>miniſter the Sacraments publikely to the Pariſhioners in the Church, at fitting and formerly accuſtomed times, <hi>as well as</hi> to preach unto them, and that in proper perſon, if in health and required?</p>
+               <p>2. Whether the <hi>Pariſhioners</hi> may not now legally proſe<g ref="char:EOLhyphen"/>cute
+<pb n="2" facs="tcp:115461:3"/>
+                  <hi>A.</hi> for his obstinate peremptory refuſal to adminiſter the Sacraments publikely, perſonally, and duly to them? To what penalties <hi>A.</hi> is lyable for this contemptuous neglect of his duty towards them? And what Legal Courſe is beſt for the Pariſhioners to proſecute for their juſt relief herein, in theſe distracted times?</p>
+            </div>
+            <div type="part">
+               <head>The Reſolution returned to the Propounded Caſe, and Quaeres.</head>
+               <p>Theſe Quaeres being of great Moment and Univerſal concernment to all Miniſters, Vicars, and Pariſhioners throughout the Nation; &amp; not debated to my knowledg in any printed Lawbooks or Reports, I ſhall be more co<g ref="char:EOLhyphen"/>pious in the Reſolution of them for my own Satisfacti<g ref="char:EOLhyphen"/>on, as well as your Reſolution, whom they ſo much concern; this being like to prove a leading Caſe to many others in like condition.</p>
+               <p>To your firſt Queſtion, I return this Anſwer, 1. That it is the General received Opinion, Reſolution of all <note n="*" place="margin">
+                     <hi>In their Ca<g ref="char:EOLhyphen"/>nons, Tales, Diſcourſes, Treatiſes,</hi> De Clericis, Paſto<g ref="char:EOLhyphen"/>ribus, Sacer<g ref="char:EOLhyphen"/>dotio, Parocbia, Sacramentis, Ordinatione, Minist<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is, et Miniſterio Verbs Dei, Baptiſmo, Di<g ref="char:EOLhyphen"/>vinis Officiis, &amp;c.</note> 
+                  <hi>Councils, Fathers, Canoniſts, Caſuiſts, Schoolmen, Di<g ref="char:EOLhyphen"/>vines,</hi> Antient or Modern, Papiſts or Proteſtants, (whe<g ref="char:EOLhyphen"/>ther <hi>Lutherans, Calviniſts, Preſbyterians</hi> or <hi>Indepen<g ref="char:EOLhyphen"/>dents</hi>) I have ſeen; and the expreſſe Reſolution of the Church of <hi>England,</hi> both in antient &amp; modern <hi>Coun<g ref="char:EOLhyphen"/>cils, Synods, Canons, Injunctions, the Book of Ordinati<g ref="char:EOLhyphen"/>on, Common Prayer, Articles of Religion, ar. 23. 26. Ho<g ref="char:EOLhyphen"/>milies,</hi> and late <hi>Directory;</hi> That all Miniſters, Presby<g ref="char:EOLhyphen"/>ters, Prieſts, whatſoever, lawfully called and ordained, are by Chriſts own Goſpel Inſtitution, ſpecially ordain<g ref="char:EOLhyphen"/>ed, injoyned as well to adminiſter the Sacraments of Baptiſm and the Lords Supper to the People, and Pari<g ref="char:EOLhyphen"/>ſhioners committed to their charge, as to preach the Goſpel to, or Chatechiſe them; and that as an Eſſential part of their Miniſterial Function. Which they at large evince, from <hi>Mat.</hi> 28. 19, 20. <hi>Mar.</hi> 14. 22. &amp;c. c. 16. 15, 16. <hi>Luke</hi> 22. 19. c. 24. 47. <hi>John</hi> 3. 22, 23. c. 4. 1, 2. <hi>Acts</hi> 2. 41, 42, 46. c. 6. 4. c. 8. 12, 13, 36, 38. c. 10. 48, c. 16. 15, 33. c. 18. 8. c. 19. 4, 5. c. 20. 7. 11.
+<pb n="3" facs="tcp:115461:3"/>
+                  <hi>Luke 12. 42, 43. 1 Cor.</hi> 1. 14, 15, 16. c. 9. 11. to 15. c. 10. 16. 21. c. 11. 20. to 34. c. 4. 1, 2. Rom. 12. 6, 7, 8. <hi>Epheſ. 4. 11, 12, 13. Tit. 1. 7, 8, 9. Phil. 4. 17. Gal.</hi> 3. 1. 27. and other Texts. Hence all the Prote<g ref="char:EOLhyphen"/>ſtant Princes, States, Cities, and Divines in <hi>Germany,</hi> in their <hi>Concordia Pia, &amp; Confeſſio Fidei &amp; Doctrinae,</hi> un<g ref="char:EOLhyphen"/>der all their <hi>hands and ſeals,</hi> printed <hi>Lipſiae</hi> 1584. p. 188. define the Miniſters Office (commonly called <hi>Sacerdo<g ref="char:EOLhyphen"/>dotium</hi> by the Papiſts) to be, <hi>Ministerium Verbi,</hi> Et Sacramentorum aliis porrengendorum: Evangelical Biſhops and Presbyters to be ſuch, p. 39. <hi>Quibus ſe<g ref="char:EOLhyphen"/>cundum Evangelium, ſeu ut loquuntur de jure divino, eſt commiſſum Miniſterium Verbi</hi> et Sacramentorum. And p. 15. <hi>Artic. 14. De Ordine Eccleſiaſtico, docent, Quod nemo debeat in Eccleſia publice docere,</hi> aut Sacramenta adminiſtrare, <hi>niſi ritè vocatus:</hi> who when thus duly called to the Miniſtry, ought as well to adminiſter the Sacraments, as to preach to the people, as they there reſolve, p. 316. and elſewhere: with whom all other Proteſtant Churches accord, as you may read at large in the <hi>Harmony of Confeſſions,</hi> Sect. 12, 13, 14, 15, &amp;c. This likewiſe is the Reſolution of our Statutes of 50 <hi>E.</hi> 3. c. 5. 1. <hi>Rich.</hi> 2. c. 15. 31 <hi>H.</hi> 8. c. 14. 32 <hi>H.</hi> 8. c. 44. 33 <hi>H.</hi> 8. c. 32. 1 <hi>Mariae</hi> c. 3. made in times of Popery; and of the Statutes of 1 <hi>Ed</hi> 6. c. 1. 2 &amp; 3 <hi>E.</hi> 6. c. 1. 5 &amp; 6 <hi>E.</hi> 6. c. 1. 1 <hi>Eliz.</hi> c. 2. 8 <hi>Eliz.</hi> c. 1. 13 <hi>Eliz.</hi> c. 12. (made in times of Reformation.) That Prieſts and Miniſters ought <hi>ex officio mero,</hi> to <hi>adminiſter the Sacra<g ref="char:EOLhyphen"/>ments,</hi> as well as preach to their People; and thereup<g ref="char:EOLhyphen"/>on theſe Later Statutes expreſly ſtile all and every of them in particular, <hi>A Prieſt or Miniſter of Gods holy Word</hi> and Sacraments, in the copulative; becauſe they are obliged to miniſter both of them unto their Flocks upon all occaſions, both by the Lawes of God, and the Land, as they are Miniſters.</p>
+               <p>
+                  <hi>2ly, As they are Parochial Miniſters, Vicars, or In<g ref="char:EOLhyphen"/>cumbents of Pariſh Churches, they are preciſely perſo<g ref="char:EOLhyphen"/>nally</hi>
+                  <pb n="4" facs="tcp:115461:4"/>
+                  <hi>and indiſpenſably obliged,</hi> 
+                  <note n="*" place="margin">
+                     <hi>See</hi> Pontifi<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Rom. <hi>De Ordinatione Presbyteri, p. 41, 42. 50, 55, &amp; p. 458</hi> De<g ref="char:EOLhyphen"/>gradatio ab Or<g ref="char:EOLhyphen"/>dine Presbyte<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us. <hi>Fox Acts and Mo<g ref="char:EOLhyphen"/>numents, Vol. 2. p. 87. 109.</hi>
+                  </note> ex Officio, <hi>of meer duty and right to adminiſter the Sacraments of the Lords Supper and Baptiſm to all their Pariſhioners (who are legally qualified and deſire the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame) publikely in the Church at convenient ſeaſons. This I ſhall clear, firſt from the very definition of a Pariſh, and Pa<g ref="char:EOLhyphen"/>riſh Church, to which they are preſented, and then by direct Statutes and Authorities. Cardinal</hi> Hoſtienſis <hi>in his</hi> Summa, <hi>l. 3.</hi> Tit. de Parrochiis, Panormitan <hi>in</hi> Rubrica de Parrochiis, Petrus Rebuffus, <hi>de Collationi<g ref="char:EOLhyphen"/>bus, p. 655.</hi> Willielmus Lyndewoode <hi>Provinc. Conſtit. l. 3.</hi> Tit. de Parrochiis, Duarenus <hi>de Beneficiis, &amp; Diſpu<g ref="char:EOLhyphen"/>tat. Anniverſaria, l. 1. c. 26.</hi> Franciſcus Zerula <hi>Praxis Epiſcopalis, pars 1. Tit.</hi> Parrochia; Goffridus Ab<g ref="char:EOLhyphen"/>bas <hi>Tit. Parrochis, with ſundry others, define a Pariſh to be</hi> Locus in quo degit populus certis finibus limitatus, et ali<g ref="char:EOLhyphen"/>cui Eccleſiae Deputatus. <hi>And a Pariſh Church to be,</hi> Eccleſia quae habet Paroc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iam ad ejus curam deputatam, ad quam convenit populus <note n="*" place="margin">See Pontifica<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Romanum. p 247, 259. De Eccleſiae Dedi<g ref="char:EOLhyphen"/>catione.</note> 
+                  <hi>Ad Recipienda Sacramenta,</hi> et ad audienda ſacra, et verbum Dei, et rudimenta fidei, diebus ſacris. <hi>Which Dr.</hi> Iohn Cowel <hi>in his</hi> Interpreter, <hi>and</hi> Iohn Minſhaw, <hi>in his</hi> Guide unto Tongues, <hi>in the word</hi> Pariſh, <hi>thus ſecond &amp; Engliſh;</hi> A Pariſh in our Common Law, is the particular charge of a Secular Prieſt: <hi>and then ſubjoyn,</hi> A Parochial Church is that which is inſtituted for the ſaying of Divine Service, <hi>and Miniſtring of the holy Sacraments to the people</hi> dwel<g ref="char:EOLhyphen"/>ling within ſuch a compaſs of ground near unto it. <hi>With them accords the Book of</hi> Mich. 34 E: <hi>1. Fitz.</hi> Quare Impedit 187. <hi>where they prove a Church to be no</hi> Cha<g ref="char:EOLhyphen"/>pel, <hi>but a</hi> Pariſh Church, <hi>becauſe it had</hi> Sepulture, Bap<g ref="char:EOLhyphen"/>tiſm, and Sacraments adminiſtred in it. <hi>And the Sta<g ref="char:EOLhyphen"/>tute of 32 H. 8 c. 32.</hi> For the Church of <hi>Whitegate</hi> to be made a Pariſh of it ſelf, and no part of the pariſh of <hi>O<g ref="char:EOLhyphen"/>ver; proves it to be a Pariſh Church antiently, from this very reaſon,</hi> Becauſe the Inhabitants and Tenants within ſuch places and precincts, time out of mind, came
+<pb n="5" facs="tcp:115461:4"/>
+and reſorted to the ſaid Pariſh Church of <hi>Whitegate,</hi> within which times they have <hi>continually received Sa<g ref="char:EOLhyphen"/>craments and Sacramentals</hi> at and in the ſaid Church, and have continually uſed to marry, bury, and chriſten within the ſame. <hi>And the Statute of 32 H. 8. c. 44.</hi> reduced the Town of <hi>Royſton,</hi> belonging to 5 remote pa<g ref="char:EOLhyphen"/>riſh Churches, to one Pariſh Church new built in it, becauſe was over painfull (eſpecially to the impotent, ſickly, and aged Inhabitants) to travel to thoſe Churches ſo remote, or any of them, to hear their divine Service, and they could not have <hi>the Sacraments and Sacramentals to be mi<g ref="char:EOLhyphen"/>niſtred to them,</hi> according to the laudable cuſtom of ho<g ref="char:EOLhyphen"/>ly Church, to their great perils and jeopardies, through the remoteneſs of theſe Churches, and abſence of their Par<g ref="char:EOLhyphen"/>ſons and Curates in ſuch caſes of neceſſity, when their pre<g ref="char:EOLhyphen"/>ſence to the comfort and conſolation of their Pariſhioners, is moſt requiſite and behovefull. <hi>So that Pariſh Church<g ref="char:EOLhyphen"/>es (ſo ſtiled, becauſe originally built by the Patrons and</hi> Pariſhioners <hi>for their eaſe, uſe, benefit, and the uſe of, and</hi> 
+                  <note n="*" place="margin">Paſc. 2 C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. B. R. Carlton <hi>and</hi> Hut<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons <hi>caſe reſolved.</hi>
+                  </note> ſeats <hi>in them are ſtill in the Patron &amp; Pariſh, who repair them) were originally built and * conſecrated, as well for the Adminiſtration of Sacraments in them, by their Pariſh</hi> Prieſts, Parſons and Vicars, <hi>as for Divine Ser<g ref="char:EOLhyphen"/>vice, Prayers and Preaching; Of which the people can<g ref="char:EOLhyphen"/>not be deprived, without their great</hi> diſconſolation, pe<g ref="char:EOLhyphen"/>rils and jeopardies, <hi>as this Parliament and Statute reſolve: to which the Statute of 1</hi> Jacobi, <hi>ch. 30. For</hi> erecting a New Church <hi>in Melcombe Regis,</hi> to be the Pariſh Church of <hi>Radipol; &amp;c. might be added, to the like effect.</hi>
+               </p>
+               <p>
+                  <hi>This will be moſt apparent and irrefragable; by con<g ref="char:EOLhyphen"/>ſidering the Office and Duty of every</hi> Pariſh Prieſt, Par<g ref="char:EOLhyphen"/>ſon and Vicar, <hi>and why he is ſtiled</hi> Parochial: <hi>He is ſti<g ref="char:EOLhyphen"/>led a Pariſh Prieſt or Miniſter, as</hi> Duarenus <hi>and others forecited reſolve, becauſe he is ſpecially</hi> obliged to preach, adminiſter the Sacraments, and perform all other duties belonging to a Minister, <hi>to all and every Inhabitant of</hi>
+                  <pb n="6" facs="tcp:115461:5"/>
+                  <hi>that Pariſh to whoſe Church he is preſented, inſtituted, inducted; and not to any others, but only voluntarily when he pleaſeth, being</hi> married and eſpouſed to that pe<g ref="char:EOLhyphen"/>culiar pariſh; <hi>whence he is ſtiled</hi> Parochus, <hi>and the peo<g ref="char:EOLhyphen"/>ple</hi> Parochia<g ref="char:punc">▪</g> 
+                  <hi>by the Canoniſts and Lawyers;</hi> 
+                  <note n="a" place="margin">Summa Angelica, Tit. Parochia.</note> Ange<g ref="char:EOLhyphen"/>lus de Clavaſio; <hi>and</hi> 
+                  <note n="b" place="margin">Praxis E<g ref="char:EOLhyphen"/>piſcopalis, pars 1. Tit. Paro<g ref="char:EOLhyphen"/>chia, ſect. 3. f.. 162.</note> Franciſcus Zerula, <hi>thus de<g ref="char:EOLhyphen"/>ſcribe the Office as a Pariſh Prieſt, or Vicar.</hi> Parochi officium eſt, Primo praedicare: Pu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ros rudimenta fidei et obedientiam docere: Vim, et uſum Sacramentorum exa<g ref="char:EOLhyphen"/>rare populo: Oves ſuas agnoſcere, et bono exemple paſcere; <hi>Sacramenta adminiſtrare,</hi> &amp;c. <note n="c" place="margin">Praxis Be<g ref="char:EOLhyphen"/>neficiorum, pars 1. p. 4<g ref="char:punc">▪</g> ſect. 10.</note> Rebuffus <hi>thus ſe<g ref="char:EOLhyphen"/>conds them.</hi> Eccleſia Parochialis dicitur <hi>Beneficium</hi> ſaeculare et cum adminiſtratione, <hi>Quia Curatus tenetur miniſtrare Sacramenta Eccleſiaſtica,</hi> &amp;c. aliaque ope<g ref="char:EOLhyphen"/>ra Parochianos tangentia, facere tene<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur. <hi>And he is cal<g ref="char:EOLhyphen"/>led an</hi> 
+                  <note n="d" place="margin">Littleton, ſect. 180. 14 <hi>H.</hi> 7. 25, 26. Cooks 1 Inſtit. f. 119 b.</note> Incumbent, <hi>both by the Common, and Ca<g ref="char:EOLhyphen"/>non Law, from the word</hi> Incumbo, <hi>becauſe</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ought di<g ref="char:EOLhyphen"/>ligently and wholly to apply himſelf to diſcharge theſe his Paſtoral duties himſelf, <hi>1 Tim. 4. 15, 16. Acts 6. 4. This duty of adminiſtring the Sacraments, as well as preach<g ref="char:EOLhyphen"/>ing, is ſo inſeparably annexed to every Parochial Mi<g ref="char:EOLhyphen"/>niſter, Vicar and Incumbent, that</hi> 
+                  <note n="e" place="margin">Appendicis A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rei, l. 1. c. 11. ſect. 18. 20. p. 53.</note> Jacobus de Graf<g ref="char:EOLhyphen"/>fiis, <note n="f" place="margin">Ind. cap. <hi>Omnis</hi> in Gloſ. executionem.</note> Jo. Andreas, <hi>and other Caſuiſts, queſtion, whether</hi> Parochus potest aſſumere alium Sacerdotem in adjutorem pro adminiſtranda Euchariſtia, vel in offici<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> praedicandi, vel aliis? <hi>Reſolving affirmatively, that he may, only for a ſeaſon, when himſelf by reaſon of ſickneſs or multitude of the Communicants, or other neceſſary occaſions, is unable to diſcharge thoſe duties in perſon,</hi> quia tunc neceſſitas legem non habet. Non tamen poſſit per viam delegationis generalis committere alicui omnem ſuam curam, quia videretur ſe exonerare, <hi>Cum tamen debeat per ſe exercere. <hi>With theſe Canoniſts, the book</hi>
+                  </hi> of the Conſecration of our Engliſh Miniſters; the Home<g ref="char:EOLhyphen"/>lies <hi>touching the</hi> Uſe and Administration of the Sacra<g ref="char:EOLhyphen"/>ments; <hi>The Book of Common Prayer, and</hi> Admini<g ref="char:EOLhyphen"/>ſtration of the Sacraments, <hi>with the Rubricks therein;</hi>
+                  <pb n="7" facs="tcp:115461:5"/>
+                  <hi>the Articles of the Church of</hi> England, Artic. 29, 26. <hi>confirmed by ſeveral Proteſtant Parliaments, the Eng<g ref="char:EOLhyphen"/>liſh</hi> 
+                  <note n="*" place="margin">Fox Acts &amp; Monuments<g ref="char:punc">▪</g> vol. 2 p. 388. 392. 393. 401<g ref="char:punc">▪</g>
+                  </note> Injunctions of H. 8. &amp; Qu. Eliz. Reformatio Legum Eccleſiaſticarum, <hi>in King</hi> Edward <hi>the 6. his reign, and the Canons of King</hi> James, <hi>and the Convocation un<g ref="char:EOLhyphen"/>der him,</hi> Can. 20, 21, 22, 23. <hi>fully accord, injoyning all Parſons, Vicars, Incumbents whatſoever,</hi> to admini<g ref="char:EOLhyphen"/>ſter Baptiſme and the Euchariſt to their Pariſhioners, at leaſt <note n="*" place="margin">See Spelma<g ref="char:EOLhyphen"/>ni Concil. p. 529, 548 615 616<g ref="char:punc">▪</g> and my Suſpention ſuſpended, p. 24<g ref="char:punc">▪</g> 25, 26. Giving &amp; re<g ref="char:EOLhyphen"/>ceiving being <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olata; all thoſe Texts, Laws, that prove it the peoples duty to receive the Sacraments, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Nomine, ob<g ref="char:EOLunhyphen"/>lige the Mini<g ref="char:EOLhyphen"/>ſter to admit and deliver to them. Poſi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o relatoru<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> po<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> alte<g ref="char:EOLhyphen"/>rum. M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> H<gap reason="illegible" resp="#APEX" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ey. A Second V<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>cation of Fr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> admiſſion to the Lords Su<g ref="char:EOLunhyphen"/>per. p. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5, &amp;c.</note> thrice every year in perſon, <hi>as well as to preach, Ca<g ref="char:EOLhyphen"/>techiſe, and read Divine Service to them. Memorable is that Paſſage in that Pathetical exhortation preſcribed by the Church of</hi> England, <hi>in the</hi> Book of Common Pray<g ref="char:EOLhyphen"/>er, <hi>to be uſed</hi> by all Miniſters when they ſhall ſee the peo<g ref="char:EOLhyphen"/>ple negligent to come to the holy Communion, viz. When God calleth you, be you not aſhamed to ſay, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will not come? <hi>&amp;c. <hi>I for my part am here preſent, and ac<g ref="char:EOLhyphen"/>cording to mine office,</hi>
+                  </hi> I bid you in the name of God, I call you in Chriſts behalf, I exhort you as you love your own Salvation, that ye will be partakers of this holy Communion, <hi>&amp;c.</hi> And whereas you offend God ſo ſore in refuſing this holy banquet, <hi>I admoniſh exhort, and be<g ref="char:EOLhyphen"/>ſeech you,</hi> that unto this unkindneſſe you will not adde a<g ref="char:EOLhyphen"/>ny more, which thing ye ſhall doe, if ye ſtand by as Ga<g ref="char:EOLhyphen"/>zers and Lookers on them that do communicate, and be not partakers of the ſame your ſelf, <hi>&amp;c. How many Miniſters now a days preach direct dehortations from the Sacra<g ref="char:EOLhyphen"/>ment, pointblanke againſt this Exhortation and their duties, preſcribed by God himſelf, and no leſſe than 6 Acts of Parliament, which thus back the premi<g ref="char:EOLhyphen"/>ſes.</hi>
+               </p>
+               <p>
+                  <hi>The Statute of</hi> 1 E. 6. c. 1. <hi>in the very beginning of Reformation, and yet in force, enacts,</hi> That the bleſſed Sacrament be hereafter commonly delivered and miniſtred unto the people within the Church of <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> &amp; other the Kings Dominions, under both the kinds of bread and wine; That the people preſent ſhall receive the ſame with the Prieſt which ſhall adminiſter th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſame
+<pb n="8" facs="tcp:115461:6"/>
+who ſhall, at leaſt one day before, exhort, <hi>all perſons which ſhall be preſent,</hi> likewiſe to reſort, and prepare themſelves to receive the ſame: and when the day prefixed commeth, after a godly exhortation by the Miniſter made, the ſaid Miniſter <hi>ſhall not without a lawfull cauſe de<g ref="char:EOLhyphen"/>ny the ſame to any perſon that will deboutly and hum<g ref="char:EOLhyphen"/>bly deſire it;</hi> any Law, Statute, Ordinance, or cuſtom to the contrary hereunto in any wiſe notwithanding. <hi>The Statutes of 2 and 3</hi> Ed. 6. <hi>c.</hi> 1. 5. <hi>and</hi> 6. E. 6. <hi>c.</hi> 1. <hi>and</hi> 1 Fliz. <hi>c. 2. enact and ordain,</hi> That <hi>all and ſingular Miniſters in any Cathedral or Pariſh-Church ſhall be bound to ſay and uſe the celebration of the Lords Supper, and adminiſtration of the Sacraments of Baptiſme, and of the Lords Supper,</hi> in ſuch Order and form as is mentioned in the Book of Common<note place="margin">Nota.</note> Prayer; <hi>And if <hi>any manner of Perſon, Vicar, or other whatſoever Miniſter that ought to minſter the Sacraments ſhall refuſe to miniſter the Sacraments, in ſuch Cathedral or Pariſh-Church,</hi>
+                  </hi> or other places, <hi>as he ſhould uſe to miniſter the ſame,</hi> in ſuch Order and form as they be mentioned and ſet forth in the ſaid Book: or ſhall wilfully and obſtinately ſtanding in the ſame, uſe any other Rite, Ceremony, order, form, or <hi>manner of ad<g ref="char:EOLhyphen"/>miniſtration of the Sacraments,</hi> then is mentioned and ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t forth in the ſame Book: That upon his lawfull convicti<g ref="char:EOLhyphen"/>on thereof, by verdict of 12 men, or by his own confeſſion, or by notorious evidence of the fact, he ſhall loſe and for<g ref="char:EOLhyphen"/>feit to the King, his Heirs and Succeſſors for his firſt<g ref="char:punc">▪</g> of<g ref="char:EOLhyphen"/>fence, one whole years profit of his benefice, or Spiritual promotion, and alſo ſuffer impriſonment for 6 months without Bayle or Mainpriſe; and for his ſecond Offence, be <hi>ipſo facto deprived of all his ſpiritual promotions,</hi> and likewiſe ſuffer one whole years impriſonment, and for his third offence, ſuffer impriſonment during life. <hi>The Statute of</hi> 13 Eliz. c. 12. <hi>enacts,</hi> That none ſhall be made Miniſter, or admitted to preach or <hi>miniſter the Sa<g ref="char:EOLhyphen"/>craments,</hi> being under the age of 24 years. That every
+<pb n="9" facs="tcp:115461:6"/>
+perſon admitted to any benefice with Cure, ſhall publikely read the Articles of Religion in the ſame Church whereof he ſhall have the cure, in the time of the Common Prayer there, with Declaration of his unfeigned aſſent thereto, and be admitted <hi>to miniſter the Sacraments</hi> within one year after his Induction; or elſe upon every ſuch default, <hi>he ſhall be ipſo facto immediately deprived,</hi> and thereupon the Patron preſent a New Incumbent. <hi>By all which Acts it is clearly reſolved, that every</hi> Parſon, Viccar, Mini<g ref="char:EOLhyphen"/>ſter of a Porochial Church is admitted thereunto, as well to adminiſter the Sacraments as to preach, and perempto<g ref="char:EOLhyphen"/>rily obliged, frequently, conſtantly to do it in perſon, as a principal duty of his Function and Paſtoral cure, under pain of forfeiting of the profits of his Benefice, Impriſon<g ref="char:EOLhyphen"/>ment, and Deprivation, for his contempt and neglect there<g ref="char:EOLhyphen"/>of, <hi>by theſe expreſſe Statutes of our Proteſtant Parlia<g ref="char:EOLhyphen"/>ments, as well as by our Canons, Convocations, Divines and the whole Church of</hi> England.</p>
+               <p>If any object, that theſe <hi>Statutes</hi> are now abrogated,<note place="margin">
+                     <hi>Object.</hi> 1.</note> repealed by the <hi>Ordinances</hi> of both Houſes, preſcribing the uſe of the <hi>Directory,</hi> in place of the <hi>Book of Com<g ref="char:EOLhyphen"/>mon Prayer</hi> and adminiſtration of the <hi>Sacraments;</hi> Therrfore Miniſters are not now obliged by them to adminiſter the Sacraments to their Pariſhioners.</p>
+               <p>To this I anſwer, 1. That no Ordinance of Parlia<g ref="char:EOLhyphen"/>ment<note place="margin">Object.</note> whatſoever (eſpecially to repeal or alter former Acts of Parliament) can be made without <hi>the threefold conſent of King, Lords and Commons</hi> in Parliament, an Act and Ordinance of Parliament being all one, and requiring the ſelf-ſame treble conſent in Law, as I have irrefragably proved at large in my <hi>Irenarches Redivivus</hi> printed <hi>An.</hi> 1648. againſt Sir <hi>Edward Cooks</hi> miſtake, and others in this point; which threefold aſſent the ob<g ref="char:EOLhyphen"/>jected Ordinances wanting, are meer <hi>Nullities</hi> in Law, and can no ways repeal theſe forecited Statutes, remain<g ref="char:EOLhyphen"/>ing ſtill in their Legal power<g ref="char:punc">▪</g> 2ly. Admit theſe Sta<g ref="char:EOLhyphen"/>tutes repealed, or ſuſpended by theſe Ordinances,
+<pb n="10" facs="tcp:115461:7"/>
+(which I deny in point of Law) yet theſe very objected Ordinances, and the <hi>Directory</hi> it ſelf, poſitively enjoyn all Miniſters and Vicars, duly to adminiſter the Sacra<g ref="char:EOLhyphen"/>ments of the Lords Supper and Baptiſme to all their Pa<g ref="char:EOLhyphen"/>riſhioners (duly prepared and qualified according to theſe Ordinances) as well as theſe Statutes and the Books of Common Prayer. Therefore if theſe Ordinan<g ref="char:EOLhyphen"/>ces or the <hi>Directory</hi> be ſtill in force, they are bound by them to adminiſter the Sacraments to their Pariſhio<g ref="char:EOLhyphen"/>ners; But if they be grown out of date, and abſolete, (as the Objectors and thoſe of the Congregational way beleeve, who will not ſubmit unto them) then the Sta<g ref="char:EOLhyphen"/>tutes pretended to be repealed by them, are again re<g ref="char:EOLhyphen"/>vived by their expiration, and ſo oblige them as firmly now as heretofore. 3ly The adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments being an <note n="*" place="margin">
+                     <hi>S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> Fox Acts and M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u<g ref="char:EOLhyphen"/>ments, <hi>vol. 2. p. 87, 388, 392, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>9<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </note> eſſential, inſeparable part of every Mi<g ref="char:EOLhyphen"/>niſters duty, who hath a parochial cure, or charge of Souls, both by the Law of God, and conſtitutions of our own and all other Chriſtian Churches, as I have proved, admit theſe Statutes all repealed, yet they are ſtill obliged by their very Office, and Paſtoral Functi<g ref="char:EOLhyphen"/>on, to adminiſter the Sacraments to their Pariſhio<g ref="char:EOLhyphen"/>ners, and therefore liable to divine and humane puniſh<g ref="char:EOLhyphen"/>ments for contempt or neglect thereof.</p>
+               <p>If any object in the 2 place, That they are now ad<g ref="char:EOLhyphen"/>mitted<note place="margin">Object. 2.</note> to Parochial cures, only to preach the Goſple in their Pariſh Churches, but not to adminiſter the Sacra<g ref="char:EOLhyphen"/>ments to their Pariſhioners, as formerly.</p>
+               <p>I anſwer, 1. That if there be any ſuch new formes of<note place="margin">Anſwer</note> admiſſions and Inſtitutions uſed, they are meerly void in Law by the expreſſe reſolution of the Statute of 13 <hi>Eliz,</hi> 6. 12. and the other forecited Acts: And Mini<g ref="char:EOLhyphen"/>ſters thus admitted are but only bare Lecturers, not Par<g ref="char:EOLhyphen"/>ſons, Vicars or Incumbents by our Laws, &amp; ſo the Church ſtill void notwithſtanding ſuch admiſſions, which are only to one part of their miniſterial function, not to all their ſpiritual cure.</p>
+               <p>
+                  <pb n="11" facs="tcp:115461:7"/>2ly, Such admiſſions to Cures are ſtrange monſtrous Impoſtures, Hypocritical Deluſions, yea groſſe Abſur<g ref="char:EOLhyphen"/>dities, execrable to God and all honeſt Chriſtian men; enabling Miniſters to receive the whole Tithes, Dues of their Pariſhioners, yet exempting them from the moi<g ref="char:EOLhyphen"/>ty at leaſt of thoſe Paſtoral Duties, to which the Lawes of God and the Land oblige them. We lately decryed it as an impious Soleciſm &amp; excuſe in our old lazie non<g ref="char:EOLhyphen"/>preaching <hi>Parſons</hi> and <hi>Vicars;</hi> that they alledged, they <hi>were instituted only to read Common Prayers, Homilies, and adminiſter the Sacraments;</hi> but not to preach to their Pariſhioners. In the Biſhop of <note n="*" place="margin">
+                     <hi>Fox</hi> Acts and Monuments Vol. 2. p 614.</note> 
+                  <hi>Dunkelden,</hi> and other Lordly Prelats, that they <hi>were Ordained Biſhops on<g ref="char:EOLhyphen"/>ly to Govern the Church, confirm and ordain Miniſters, but not to preach or adminiſter the Sacraments:</hi> And ſhall we now after all our late pretences of Reforming their abuſes, and declamations againſt their Idleneſſe, ad<g ref="char:EOLhyphen"/>mit our New Parochial Incumbents to plead, they are <hi>only half-Miniſters;</hi> bound ſolely to Preach<g ref="char:punc">▪</g> but not to Baptize, adminiſter the Lords Supper, Catechiſe, viſit the Sick, Marry, Bury, as all their Predeceſſors did? If any Gentlemans hired Shepherd ſhould neglect to fold his ſheep, or look them out when ſtrayed; and then plead he was only bound by his Office to feed, keep them in their Paſture; Or if his hired Cook ſhould tell him, that as his Cook, he is bound only to boyl, but not to roſt his meat, or bake his Veniſon; Or ſhould his Laun<g ref="char:EOLhyphen"/>dreſſe affirm, ſhe was hired only to make his Bed, and ſweep his chamber; but not to waſh his Linnen, or ſtarch his bands or cuffs; Or his Groom maintain, he was by his place obliged only to dreſs his horſes, &amp; give them hay, but not to water or carry them their proven<g ref="char:EOLhyphen"/>der; Would not all deride theſe their abſurd, irratio<g ref="char:EOLhyphen"/>nal allegations, and their Maſter cudgel them to the performance of all the parts of their reſpective duties, or elſe turn them preſently out of Service? And will God or Men then indure, that their Miniſters of the Goſpel
+<pb n="12" facs="tcp:115461:8"/>
+(eſpecially when pretending extraordinary eminency, Diligence and Saintſhip above others of their Brethren) ſhould thus juggle with them to their faces; as openly to affirm, they took the ſole cure of their ſouls, only to reap all their Dues, Tithes, and to feed them with Gods word in the Pulpit, (of which the <note n="*" place="margin">Mat. 28. 19 20. Acts 26. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. c. 15. 3. c. 21. 22. 2 Tim. 4. 17.</note> 
+                  <hi>unconverted, unbaptized Heathens,</hi> are capable as wel as Chriſtians;) but not with Chriſts Sacramental body or bloud at the <hi>Lords Table;</hi> whereto profeſſed Chriſtians only have a right, 1 <hi>Cor.</hi> 10. 16. to 20. c. 11. 22. to the end? To inſtruct their aged, but not baptize their infant, or cat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chize their younger Pariſhioners? Yea that they took upon them their <hi>Paſto<g ref="char:EOLhyphen"/>ral Cure</hi> only to ſhear their <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leeces,</hi> but not to own them as <hi>any part of their Church or Flock,</hi> or diſcharge the duty of a <hi>Paſtor</hi> towards them, unleſſe they will unmodle themſelves from a <hi>Parochial Church,</hi> into a private <hi>Con<g ref="char:EOLhyphen"/>gregational conventicle?</hi> Thoſe who have <hi>hearts of</hi> 
+                  <note n="*" place="margin">Eze. 3. 9. Zech. 7. 22.</note> 
+                  <hi>A<g ref="char:EOLhyphen"/>damant,</hi> or <hi>faces of Braſſe,</hi> publikely to make ſuch an <hi>untheological, irrational, illegal,</hi> unminiſterial Plea as this, ſo diametrically contrary to the very eſſence of their Paſtoral Function, duty, and to their painfull Predeceſſors practiſes in all ages, Churches; to our bleſ<g ref="char:EOLhyphen"/>ſed <hi>Saviours own practiſe, precepts;</hi> and his <hi>deſcription of a true and good Shepherd:</hi> John 10. (yea to the de<g ref="char:EOLhyphen"/>finition of a true <note n="*" place="margin">See Dr. <hi>John White,</hi> and Dr. <hi>Fei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</hi> of the Church.</note> viſible Church, <hi>wherein the Word of God is truly preached,</hi> and the Sacraments duly admi<g ref="char:EOLhyphen"/>niſtred,) may juſtly fear they are no true <hi>Shepherds,</hi> but rather <hi>theeves; robbers, hirelings;</hi> becauſe they with<g ref="char:EOLhyphen"/>hold from their flocks the Sacrament of their Spiritual Regeneration; yea the Body, Bloud, Cup of our Lord Jeſus Chriſt, <hi>the</hi> 
+                  <note n="g" place="margin">1 Pet. 2. 3. Hebr. 13. 20.</note> 
+                  <hi>chief Shepherd of the Sheep,</hi> who bequeathed it to them as their chiefeſt Legacy, at his death, though themſelves ſtile and confeſſe them to be, <hi>the very ſeals of the Covenant of Grace,</hi> which they hold forth unto them only as <hi>a Blank without a Seal,</hi> refuſing to ſet <hi>theſe Seals unto it,</hi> when importuned by their peo<g ref="char:EOLhyphen"/>ple, upon any terms, but conformity to their own new
+<pb n="13" facs="tcp:115461:8"/>
+Church-ways, thereby making the very <note n="*" place="margin">1 Cor. 11. 26. to 33 1 Cor. 10. 16, 17.</note> 
+                  <hi>Sacrament <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f Chriſtian love and union,</hi> a meer Seminary of Sciſme, contention, diviſion, ſeperation. And <hi>becauſe they entered not by the door into the Sheepfold,</hi> that is by any legal form of admiſſion to their whole paſtoral cure, <hi>but climbed up ſome other</hi> new <hi>way,</hi> only <hi>to preach unto their people,</hi> rather <hi>as to a company of unconverted Heatheus,</hi> than a <hi>Christian Church,</hi> till new minted into a ſegregated Congrega<g ref="char:EOLhyphen"/>tions (collected out of ſundry Pariſhes though never ſo remote) but not to give the Sacraments to them up<g ref="char:EOLhyphen"/>on any terms; <note n="h" place="margin">Mat. 23. 23. Lu. 11. 42.</note> 
+                  <hi>which they ought to do, yet not to leave their preaching undone,</hi> which though it be the firſt and chiefeſt part of their Miniſtry, yet is not the <hi>quarter part</hi> of their <hi>Paſtoral function,</hi> as Scriptures and our Laws reſolve.</p>
+               <p>If <hi>A.</hi> object, that he hires another to baptize and<note place="margin">Object 3.</note> give the Lords Supper ſometimes to his Pariſhoners, though he do it not himſelf, his judgement and conſci<g ref="char:EOLhyphen"/>ence being to the contrary.</p>
+               <p>I anſwer, 1. This is a clear confeſſion, that it is a part<note place="margin">Anſwer.</note> of his own duty, elſe why ſhould he hire another to diſcharge it in his ſtead. 2. This proves the former Obje<g ref="char:EOLhyphen"/>ction (that he was admited only to preach) a meer ficti<g ref="char:EOLhyphen"/>on. 3ly. If he refuſe to do it himſelf, out of conſcience, as a thing utterly unlawfull in his Iudgement for him to adminiſter to his Pariſhioners, whiles in a Parrochial way; with what conſcience can he hire another to doe that in his behalf and right, which himſelf holds ſin<g ref="char:EOLhyphen"/>full, unlawfull for himſelf to doe? Doubtleſſe a ſin<g ref="char:EOLhyphen"/>cere purely tender Conſcience will never hire or autho<g ref="char:EOLhyphen"/>rize any other to diſcharge that Office for him, which himſelf holds utterly unlawfull, unevangelical, nor dare accept or retain a Parochial Cure upon any terms to gain the fleece ſo long as he diſclaims the conſtituti<g ref="char:EOLhyphen"/>on as <hi>Antichriſtian,</hi> and the <hi>flocks</hi> as none of his <hi>Pa<g ref="char:EOLhyphen"/>sture ſheep.</hi> 4ly. Such a pure tender Conſcience would rather reſign its Parrochial charge, to avoid all appear<g ref="char:EOLhyphen"/>ance
+<pb n="14" facs="tcp:115461:9"/>
+of evil, of ſcandal, and ſtill the checks ariſing in it, than grieve the Spirits, wound the conſciences, or diſ<g ref="char:EOLhyphen"/>quiet the Peace of the Generality of his Pariſhioners, by the perſonal neglect of his duty, in not communicating with them at the Font and Lords Table as his real flock, <hi>or as one ſpiritual bread and body with them,</hi> as he ought to do. 1. <hi>Cor.</hi> 10. 16, 17. 5ly. The diſcharge of this part of his duty by ſuch a perſon, or in ſuch a man<g ref="char:EOLhyphen"/>ner as gives no ſatisfaction to our Lawes nor his Pa<g ref="char:EOLhyphen"/>riſhioners, is no ſatisfactory plea before Gods or mans tribunal, ſince he can no more conſcientiouſly or duly adminiſter the Sacraments, than the Pariſhioners receive them, only by a ſubſtitute. Yea, if it were no good excuſe for our Pluraliſts, or Non-reſident Prelatical Clergy-men heretofore, that <hi>they preached and diſ<g ref="char:EOLhyphen"/>charged their Miniſterial function by their Curats, their Office being</hi> 
+                  <note n="i" place="margin">1 Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 9. 16 17. 2 <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m. 4. 1. 2. 5. 1 Tim. 4 13. 16. Col. 4. 17. Heb. 7. 24.</note> 
+                  <hi>perſonal and untransferrable to another,</hi> then by the ſelf ſame reaſon, it can be no plea in Law or Conſcience for this Vicar, that he adminiſters the Sacraments to them only by another Vicar; eſpeci<g ref="char:EOLhyphen"/>ally when he doth it to his ſeparate Congregation by himſelf alone, and never by a Proxy. 6ly. It is a ſtrange plea to plead conſcience againſt doing that expreſſe duty, which his very place and calling oblige him both in <note n="*" place="margin">See my Suſ<g ref="char:EOLhyphen"/>penſion ſuſ<g ref="char:EOLhyphen"/>pended, and anſwer to 4 ſe<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us Quaeſti<g ref="char:EOLunhyphen"/>ons.</note> conſcience and Juſtice to perform; Such is the free ad<g ref="char:EOLhyphen"/>miſſion of his Pariſhioners to the Lords Supper. I ſuppoſe Mr. <hi>Iohn Humf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eys</hi> his Treatiſes of free-admiſſion unto the Lords Supper, his <hi>Rejoynder to Dr. Drake, and Iohn Timſon his Bar removed,</hi> will rectifie his conſcience and remove this bar, if peruſed by him.</p>
+               <p>To your 2 <hi>Quaere</hi> I anſwer, 1. It is a principle in di<g ref="char:EOLhyphen"/>vine, Civil, Canon and Common Law, and in the Goſ<g ref="char:EOLhyphen"/>ple<note place="margin">Quaere. 2.</note> too, <hi>Beneficium propter officium;</hi> That every Mini<g ref="char:EOLhyphen"/>ſter or perſon who enters into, and reaps the benefit of any Office or Function, ought conſcientiouſly to per<g ref="char:EOLhyphen"/>form all the duties of his Miniſtry and Function, and addict himſelf fully and perſonally to diſcharge them,
+<pb n="15" facs="tcp:115461:9"/>
+as <hi>Luke.</hi> 12. 42, 43. <hi>Rom.</hi> 12. 7. 1 <hi>Cor.</hi> 4. 1, 2. 2 <hi>Cor.</hi> 4. 1, 2. <hi>c.</hi> 6. 3, 4. 11, 12. 1 <hi>Cor.</hi> 9. 7. to 13. <hi>Eph.</hi> 4. 12, 13. <hi>Col.</hi> 4. 17. 1 <hi>Tim.</hi> 4. 16. <hi>c.</hi> 3. 1, 2, 3. 2 <hi>Tim.</hi> 4. 1, 2. 5. <hi>Tit.</hi> 1. 7. 2. <hi>Pet.</hi> 1. 12, 13. compared with <hi>Lu.</hi> 10. 7. 1 <hi>Tim.</hi> 5. 17. 18. <hi>Rom.</hi> 15. 27. <hi>Gal.</hi> 6. 6. 2. <hi>Theſ.</hi> 3. 10, 2ly. That it is a <hi>Maxime</hi> in Law, <hi>(q) that the grant of every Office to any perſon for life or in fee, hath this tacit condition annexed to it by the very Law it ſelf, without any ſpecial words or Condition of the Grantor, that the Grantee ſhall well and truly perform his Office, execute that which to ſuch Office belongeth to be done, and attend upon it, or otherwiſe that he ſhall forfeit the ſame, and that it ſhall be lawfull for the Grantor or his heirs, tr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>out him of his Office, and grant it to another who will more faithfully diſcharge it. List let on</hi> puts the caſe of a <hi>Parker, Steward, Constable, Bedelary, Baylywick<g ref="char:punc">▪</g>
+                  </hi> and he adds <hi>other offices &amp;c.</hi> which extends to Eccleſiaſtical, as well as temporal Offices: I ſhall illuſtrate it by ſome few unprinted records. <hi>Clauſ,</hi> 6. <hi>E.</hi> 1. <hi>m.</hi> 1. <hi>Earl Waren Camerarius Scaccarii</hi> (which Office he had leave to execute by Deputy) <hi>forfeited his Office by the default and negligence of his Deputy,</hi> Clauſ. 17. <hi>E.</hi> 2. <hi>Dorſ.</hi> 31. <hi>The Marſhals Office of England was ſeiſed as forfeited by the Judges of the Kings Bench, becauſe he had not one to at<g ref="char:EOLhyphen"/>tend there for him: after which he was fined at</hi> 200 <hi>l. and upon promiſe of better attendance, restored, Clauſ.</hi> 4. E. 1. m. 5. Clauſ. 15. E. 1. m. 4. 8, 9. Clauſ. 16. E. 1. m. 2. Clauſ. 17. E. 1 m. 2, 3. Clauſ. 25. E. 1, Dorſ. 13. Clauſ. 31. E. 1. m. 1. <hi>I find</hi> 
+                  <note n="k" place="margin">Littleton ſect. 378 379. L. qu. E. 4f. 26. 27. 2 H. 7. 11 39. H. 6. 32. 33. Br. Office 19. Forfelture. 27. P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouden. f. 379, 380. 21 E. 4. 20. Cooke 8. Rep, f. 44. 9. Rep. f. 50. 95, 96, 97 &amp; 1 Inſtit. f. 233, 234.</note> 
+                  <hi>ſeveral Writs to remove Co<g ref="char:EOLhyphen"/>roners from their Offices, and to elect new in their places,</hi>
+                  <note place="margin">(l) <hi>See</hi> Fit. Nat. Brevium. f. 162. 163. &amp; <hi>the Regiſter,</hi> de Coronatore ex<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erand<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>becauſe they could not, or did not attend upon their Offices. or were ſick, deaf, or unable to diſcharge them, though elected only by the County in their County Court.</hi> And if temporal Offices have ſuch a condition in Law annexed to them, and are forfeited by the Non<g ref="char:EOLhyphen"/>performance of them, and all the duties belonging to them, much more than ſpiritual, which concern mens Souls. 3. Every
+<pb n="16" facs="tcp:115461:10"/>
+perſon who ſuſtains any conſiderable prejudice or dam<g ref="char:EOLhyphen"/>mage by the <hi>wilful Negligence, non-performance, or miſ<g ref="char:EOLhyphen"/>performance of any</hi> 
+                  <note n="m" place="margin">
+                     <hi>See</hi> Aſhes <hi>Tables, Tit.</hi> Action ſur le caſe, ſect. 1, 2, 4. 7. 9, 10, 12, 13, 15. Brook and Fitzh. Action ſur le caſe.</note> 
+                  <hi>Sheriffs, Bayliffs, Eſcheators, Guardian, Attorny, Vitelar, Hoſtler, Smith, Phyſitian, Chirurgion, Carpenter, Maſon, or other Officer or Per<g ref="char:EOLhyphen"/>ſon intruſted by, or ſet over him, may have a legal action or remedy againſt them at the Common Law, by an Action of the caſe, or otherwiſe, wherein he ſhall recover dama<g ref="char:EOLhyphen"/>ges.</hi> Which Law holds in Spiritual and Eccleſiaſtical offices. <hi>Littleton</hi> is expreſſe, Sect. 136. 137. <hi>That if a man give Lands in Frankalmoigne to an Abbot, Prior, or any other man of Religion, or holy Church;</hi> or to a Par<g ref="char:EOLhyphen"/>ſon of a Church and his Succeſſors, to have only <hi>divine and Spiritual ſervices done for him; If they afterwards will not do, or fail to do ſuch divine Service; if the ſervi<g ref="char:EOLhyphen"/>ces be not put in certainty, the</hi> Lord <hi>may complain thereof to their Lord or Viſitor, praying him that he will lay ſome puniſhment, or correction for this, and alſo provide that ſuch negligence be no more done; And the Ordinary or Viſit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r of right are to do this: But if the Divine ſervice be in certain to be done, as to ſing a Maſſe, Placebo, or Dirige, &amp;c. on ſome ſet day of the week or year; the Lord, if ſuch divine ſervice be not done, may enter and diſtrain them to do it; or elſe detain the Lands, as forfeited, and</hi> 
+                  <note n="n" place="margin">See <hi>Cooks</hi> 1 Inſtit. f. 96, 97.</note> 
+                  <hi>eſcheated to him by the non performance of the Divine Service.</hi>
+               </p>
+               <p>Theſe Generals premiſed, I conceive the Grieved Pariſhioners may releive themſelves, and either reclaim or remove their Vicar, if obſtinate, by theſe, Le<g ref="char:EOLhyphen"/>gal Proceedings, at the Common Law, there being now no Eccleſiaſtical Court, Juriſdiction or Commiſſi<g ref="char:EOLhyphen"/>on extant, wherein or whereby to right them.</p>
+               <p>1. They may once more in a Chriſtian friendly man<g ref="char:EOLhyphen"/>ner (for I would have no violent courſes uſed, if Chriſti<g ref="char:EOLhyphen"/>an Interceſſions may prevall) repair to their Vicar be<g ref="char:EOLhyphen"/>fore the firſt Lords day of the next month (and ſo in ſuc<g ref="char:EOLhyphen"/>ceeding Moneths) and importune him to deliver the Sacrament to ſuch of them publikely in the Pariſh
+<pb n="17" facs="tcp:115461:10"/>
+Church, as he cannot charge with any Scandal or Igno<g ref="char:EOLhyphen"/>rance, &amp; to baptize their children according to his duty, elſe to reſign his place to ſuch a Godly Miniſter, as will conſtantly do it; And if he peremptorily and froward<g ref="char:EOLhyphen"/>ly deny to do either; or to allow ſuch other able Mi<g ref="char:EOLhyphen"/>niſter as the Pariſhioners ſhall make choice of to per<g ref="char:EOLhyphen"/>form theſe duties to them they may then <note n="o" place="margin">Mr. <hi>Bur<g ref="char:EOLhyphen"/>roughs</hi> did ſo at <hi>Colcheſter</hi> by my advice, on<g ref="char:EOLhyphen"/>ly for denying him the Sacra<g ref="char:EOLhyphen"/>ment, becauſe he would not receive it at the <hi>New Rayl:</hi> See <hi>My Quenchcole</hi> at the end.</note> 
+                  <hi>publikely indict</hi> him for it upon the Statutes of 1 <hi>E. 6. c.</hi> 1. and 1 <hi>Eliz.</hi> c. 2. and upon the ſecond conviction, he is <hi>Ipſo Facto deprived of all his ſpiritual Promotions, and his Vi<g ref="char:EOLhyphen"/>caredge,</hi> and the Patron may preſent another.</p>
+               <p>2. They may all, after ſuch refuſal, joyntly detain their Tithes and Duties demanded by him as their <hi>Vi<g ref="char:EOLhyphen"/>car,</hi> becauſe by his own confeſſion he was never legally inſtituted to diſcharge all the Duties of an Incumbent according to 13 <hi>Eliz.</hi> c. 12. and diſclaims to own them as his <hi>proper Flocke</hi> and <hi>Cure,</hi> owning only his <hi>Segregated Congregation</hi> for ſuch, in <hi>oppoſition and con<g ref="char:EOLhyphen"/>tradistinction to his Pariſh;</hi> which they may plead in Barre of any <hi>Legal Action</hi> to recover his Dues; this <note n="p" place="margin">See <hi>Cooks</hi> 1 Inſtit. f. 101. 102. 362, 363. &amp; <hi>Hrooks</hi> &amp; <hi>Fitz.</hi> Tit. Dſ<g ref="char:EOLhyphen"/>claimer.</note> 
+                  <hi>diſclaiming of them, being a kinde of reſignation of his Vicaredge, and barr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unto his Dues; quia Beneficiunt propter officium:</hi> and if he be not their true, real <hi>Paro<g ref="char:EOLhyphen"/>chial Vicar,</hi> and do not his duty to them, he hath no right to <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Parochial dues, nor yet unto the <hi>Glebe.</hi>
+               </p>
+               <p>Our <note n="*" place="margin">a 1 E. 3. 7. 41 E. 3. 6. 19. 38 H. 6. 20. 39 H. 6. 22. 5 E. 4. 5. 15 E. 4. 3. 20 E 4. 18, 19. <hi>Brooke Annui<g ref="char:EOLhyphen"/>ty,</hi> 7, 8, 25, 28, 29. <hi>Condition</hi> 45 <hi>Dyer.</hi> 6 <hi>H.</hi> 8. 2. 6 E. 6. <hi>f.</hi> 76. Sir <hi>John Davis</hi> Re<g ref="char:EOLhyphen"/>ports, f. 1. b.</note> 
+                  <hi>Law Books</hi> reſolve, that if <hi>an Annuity</hi> be gran<g ref="char:EOLhyphen"/>ted to a <hi>Lawyer, Attorney or Phyſitian, pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Conſilio ſuo impenſo et impendend<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> if they ſtop or refuſe to give the Grantors their Counſel when required; or if A. grants an Annuity to B. for the uſe of a way, and B. ſtops the way; that hereupon the Grantors may <hi>justly ſtop and detain the Annuities, being forfeited by their stoppage and refuſal of their Counſel, Advice, or way granted;</hi> and may plead the ſame in Barre of any <hi>Action at Law for theſe Annuityes.</hi> Much more then may the Pariſhioners do it, when their Vicar or Incumbent not only refuſeth peremptorily to give them the Sacraments, but diſclaims
+<pb n="18" facs="tcp:115461:11"/>
+to be their <hi>Vicar or Pastor</hi> in a Parochial and Legal way.</p>
+               <p>3. Every particular Pariſhioner grieved, may by the Statutes of 13 <hi>E.</hi> 1. c. 24, 25, 50. have a <hi>ſpecial Action upon the Caſe</hi> againſt him at the Common Law, (as I conceive) ſince he can now have no remedy in any <hi>Spiri<g ref="char:EOLhyphen"/>tual Courts,</hi> as <hi>formerly,</hi> being all ſuppreſſed: by the ſelf-ſame reaſon as <hi>Executors,</hi> and <hi>Legatees</hi> now ſue at <hi>Common Law</hi> and in <hi>Chancery</hi> for ſuch <hi>things,</hi> ſuch Le<g ref="char:EOLhyphen"/>gacies, and <hi>Miniſters</hi> for ſuch <hi>Tithes</hi> and <hi>Duties,</hi> as for<g ref="char:EOLhyphen"/>merly they had no ſuit nor remedy for, but in Eccleſia<g ref="char:EOLhyphen"/>ſtical Courts alone; elſe there ſhould be a great failer of Juſtice; and becauſe no Eccleſiaſtical <note n="q" place="margin">See <hi>Brooks</hi> and <hi>Fitz.</hi> Tit. Conuſance and Juriſdiction.</note> 
+                  <hi>Juriſ<g ref="char:EOLhyphen"/>diction</hi> is now either wronged by, nor can be claimed, pleaded againſt ſuch <hi>Actions,</hi> there being none to take preſent <hi>conuſans</hi> of them.</p>
+               <p>4. I conceive the Patron himſelf (from the foreci<g ref="char:EOLhyphen"/>ted reaſons of <hi>Littletons caſes of Frankalmoigne,</hi> Sect. 136. 137. and of <hi>Conditions in Law,</hi> Sect. 378. 379.) upon the Vicars refuſal to own the Pariſhioners, <hi>and ad<g ref="char:EOLhyphen"/>miniſter the Sacraments to them</hi> as his Flock; (for which end the Glebe and Duties thereunto belonging were firſt given by the Patron and his Tenants to the Vicar and his Succeſſors, as well as to preach) may juſtly en<g ref="char:EOLhyphen"/>ter upon him for breach of this condition in Law <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him of the Glebe and Vicaredge, and beſtow them on ſome other by his immediate Deed of <hi>Collation, and Livery of Seiſin,</hi> without any Preſentation, as <note n="*" place="margin">Sir <hi>John Da<g ref="char:EOLhyphen"/>vis</hi> Reports, f. 46. b. 2 <hi>Jacob<g ref="char:punc">▪</g> Fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</hi> c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe <hi>Cooks</hi> 1 Inſtit. f. 344<g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Weſts Preſidents.</hi> Grants 337, 354</note> 
+                  <hi>Free Chappels uſed to be, and are ſtill collated;</hi> and that upon this legal ground; <note n="r" place="margin">See Mr. <hi>Seldens</hi> Hiſto<g ref="char:EOLhyphen"/>ry of Tithes, ch. 6. ſect. 2. ch. 9. ſect. 4. <hi>My I<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Patro<g ref="char:EOLunhyphen"/>na us,</hi> p. 15, 6.</note> 
+                  <hi>becauſe Patrons originally had the ſole right of collating, inducting, inſtituting Clerks and Incumbents to their Churches, without the Biſhops ſpeci<g ref="char:EOLhyphen"/>all licenſe, (as they conferred other Freeholds to their Tenants, by their own immediate grants and liveries) till Biſhops and Ordinaries by ſundry Cannons extorted by de<g ref="char:EOLhyphen"/>grees this Juriſdiction from them, ingroſſing the power of approving, admitting, inſtituting, and inducting Clerks</hi>
+                  <pb n="19" facs="tcp:115461:11"/>
+                  <hi>into Parechial Churches by degrees into their own hands.</hi> Which Biſhops with their Canons, Ordinances, being now ſuſpended or abrogated in <hi>England,</hi> and their an<g ref="char:EOLhyphen"/>tient Iuriſdiction, by no expreſſe <hi>Act of any real Par<g ref="char:EOLhyphen"/>liament</hi> legally transferred to any other Eccleſiaſtical or Civil Juriſdiction: thereupon the <hi>Patrons original right, of collating Benefices by immediate grant and live<g ref="char:EOLhyphen"/>ry, and o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ting the Incumbent thereof (as Patron</hi> (ſ) <hi>and Viſitor of the Church</hi>) for not adminiſtring the Sacra<g ref="char:EOLhyphen"/>ments<note place="margin">(<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) 8 E. 3. 69 70. 8 <hi>Aſſ. 29. 31. Cooks</hi> 1 Inſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. f. 344 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>F<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tz.</hi> Natur. B ev. 35 <hi>A.</hi> 42. a. b. 6. H. 7. 14. a. <hi>Dyer</hi> 273. b. Co. 11. Rep. 99. b. Fit: Brief. 660. 27 E. 3 85. a. 30 E. 3. 10. a.</note> and diſcharging his paſtoral office, <hi>is revived, reſetled in him by Law:</hi> So as he may now juſtly enter, put out or deprive the Vicar, as the <hi>Biſhop</hi> and <hi>Eccleſix<g ref="char:EOLhyphen"/>stical Courts</hi> might formerly have done, there being no other legal Eccleſiaſtical Powers here extant to depoſe him: which the Marginal Law-Books, with other Authorities will clear, compared with 21 E. 3. 46. 13 E. 4. 8, 9, Br. <hi>Extinguiſhment</hi> and Reviver. 16. 46. <hi>Cooks 1 Inſtit.</hi> f. 319. 338. 24. E. 3. 72. Bro. Eſcheat 9, 19. &amp; 13. E. 1. c. 25. 50.</p>
+               <p>
+                  <hi>5ly, I conceive, a ſpecial writ may be framed and di<g ref="char:EOLhyphen"/>rected to the Vicar, commanding him to</hi> adminiſter the Sacraments to his Pariſhioners, <hi>according to his Paſtoral duty, and the Laws and Cuſtoms of</hi> England; <hi>and if then he refuſe to do it, thereupon he may be Fined, Attach<g ref="char:EOLhyphen"/>ed, ejected for this contempt, &amp; that upon this Ground. Our Kings heretofore being</hi> 
+                  <note n="*" place="margin">26 H. 8. c. 1. 37 H. 8. c. 17. 1 Eliz. c. 1. 5 Eliz. c. 1. S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>liz. c. 1. Sir <hi>Io. Davis</hi> Reports f. 19.</note> Supreme Governours in and over all Eccleſiaſtical and Temporal cauſes and per<g ref="char:EOLhyphen"/>ſons, <hi>had by the very Common Law of</hi> England <hi>a So<g ref="char:EOLhyphen"/>veraign power, without any Act of Parliament, by their</hi> remedial Writs <hi>upon all occaſions, to enjoyn all Officers Perſons, under them to diſcharge thoſe Offices, Duties,<note place="margin">(<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>) Ethelredus Abbas, de Ge<g ref="char:EOLhyphen"/>neologia Regum Angliae, Col. 359. Iſaac Ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n, in Epistola Exercitationibus praefixo. Fox <hi>Acts and Monuments,</hi> Vol. 1. p. 218. Io. Seldeni ad Eadmerum Notae, p 161, 162. Mat. Parker, Antiq. Eccleſ. Brit. in Dunſtan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Spelmanni Concil. p. 477.</note> which the Laws themſelves &amp; their very Offices engaged them to perform. This is evident, 1. From the Elegant (<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) Oration of</hi> King Edgar <hi>to his Prelates and Clergy</hi>
+                  <pb n="20" facs="tcp:115461:12"/>
+Et mea quidem intereſt Laicos cum aequitatis Iure tra<g ref="char:EOLhyphen"/>ctare, inter virum et proximum ſuum justum judicium fac<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, &amp;c. Sed et mea ſollicitudinis eſt Eccleſiarum Mini<g ref="char:EOLhyphen"/>ſtris, Gregibus Monachorum, Choris virginum et neceſ<g ref="char:EOLhyphen"/>ſaria adminiſtrare, et paci eorum ac quieti conſulere: <hi>D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quorum omnium Moribus ad nos ſpectat examen,</hi> ſi vivunt continenter, ſi honeſte ſe habent ad eos qui fores ſunt, <hi>ſi in Divinis Officiis ſolliciti, &amp; in docendo populo aſeidui,</hi> ſi victu ſobrii, ſi moderati habitu, <hi>ſi in Iudiciis ſunt diſcreti,</hi> &amp;c. Ego Conſtantini, vos Petri gladium ha<g ref="char:EOLhyphen"/>betis in manibus; jungamus dextras, gladium gladio <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>pulemus, ut projiciantur extracaſtra leproſi, &amp;c. <hi>2ly, From the Statute of Magna Charta, <hi>c. 29.</hi> We ſhall de<g ref="char:EOLhyphen"/>ny nor deferre to no man justice or right; <hi>to wit, neither in civil nor eccleſiaſtical things, or cauſes; the words being general, and extending equally to both, as this</hi> Charter doth both to all eccleſiaſtical &amp; temporal perſons, Freemen of the Realm of England, <hi>c. 1. &amp; 2. 3ly; From this uſual recital in our Kings writs:</hi> 
+                     <note n="u" place="margin">Regiſter of Writs <hi>pars</hi> 2. f. 10. 15. 38. 127. 189. <hi>Fitz.</hi> Na<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e. f. 153, 154, &amp;c. See the 2d Part of my Soveraigne Power of Par<g ref="char:EOLhyphen"/>liaments, p. 79, 80.</note> 
+                     <hi>Nos qui ſingulis de Regno noſtro in exhibitione juſtitiae ſumus debito<g ref="char:EOLhyphen"/>res: <hi>Nos volentes</hi> Quibuſcunque legis noſtris in Cu<g ref="char:EOLhyphen"/>riis noſtris plenam et celerem Iuſtitiam exhiberi.</hi> Pracipimus, &amp;c. Iuſticiae complementum ſibi fieri et nullatenus differri, &amp;c. ſecundum legem et conſuetudi<g ref="char:EOLhyphen"/>nem Regni noſtri. <hi>4ly, By the Statute of</hi> Weſt. <hi>2. An. 13 E. 1. c. 24, 25, 50, which enacts, That where a Writ is granted out of the Chancery for a thing done to the noyſance of another, the Plaintiffs from henceforth ſhall not depart out of the Kings Courts without reme<g ref="char:EOLhyphen"/>dy, becauſe in the Regiſter of the Chancery there is no ſpecial Writ found in his Caſe; but from henceforth, where in one caſe a writ is granted, <hi>In like caſe when like remedy faileth,</hi> the writ ſhall be made as hath bin uſed before: And from henceforth <hi>as often as it ſhall fortune in the Chancery,</hi> that in one caſe a writ is found, <hi>and in like Caſe, falling under like Law, and requiring like remedy there is found none; the Clerks</hi>
+                     </hi>
+                     <pb n="21" facs="tcp:115461:12"/>
+                     <hi>of Chane<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ry ſhall agree in making the writ, <hi>or the Plaintiffs may adjourn it till the next Parliament; and by conſent of men learned in the Law,</hi> A (new) writ ſhall be made <hi>(according to his ſpecial new caſe)</hi> leſt it ſhould happen afterwards that the Kings Court ſhould fail to Miniſter Iuſtice unto Complainants. <hi>And leſt Suiters coming to the Kings Court</hi> ſhould depart from thence without remedy, they ſhall bave writs provided in their caſes: <hi>By vertue of which Statutes, the Subjects grieved, have uſually had not only a writ grounded thereon, particularly ſtiled</hi>
+                     </hi> 
+                     <note n="x" place="margin">Fitzh. Br<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ef 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>3, 309, 794, 807, 810 849, 947. &amp;. Entre 3 7, 8. 61, 68. Natur. Brev. f. 206, 207. 38 H. 6. 3, 12, 30. Cook l 8. f. 49. Inſtit. 2. f. 405, 407, 486.</note> 
+                     <hi>in conſtmili caſu, <hi>but</hi>
+                     </hi> many other Writs, as appeareth in our Books, <hi>though</hi> they bear not that name. <hi>And by vertue thereof, I am clear of Opinion, the Pariſhioners may have a ſpecial writ againſt their Vicar in this very caſe, to enjoyn him to adminiſter the Sacrament of Baptiſm and the Lords Sup<g ref="char:EOLhyphen"/>per to them and their Children: 5ly, From the antient writ of</hi> William the Conqueror <hi>to</hi> 
+                     <note n="y" place="margin">Cart. 2. R. 2. m. 12. n. 5. <hi>F<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>x</hi> Acts and Mon. l. 4. p. 154 J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h. Seldeni ad Eadmerum Notae, p. 16<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> Remigius <hi>Biſhop of</hi> Lincolne, <hi>and all other Biſhops and Archdeacons.</hi> Wil<g ref="char:EOLhyphen"/>lielmus Dei Gratia, &amp;c Propterea mando et regia au<g ref="char:EOLhyphen"/>ctoritate praecipio, ut nullus <hi>Epiſcopus,</hi> vel <hi>Archidiaconus</hi> de Legibus Epiſcopalibus amplius in <hi>Hundret,</hi> placita te<g ref="char:EOLhyphen"/>neant, &amp;c. <hi>And from his Juriſdiction over all Eccleſi<g ref="char:EOLhyphen"/>aſtical perſons and cauſes, thus recorded by</hi> Eadmerus, <hi>Hiſt. Novorum, l. 1. p. 6.</hi> Cuncta ergo divina ſimul &amp; humana ejus nutum expectabant. Non ergo pati vole<g ref="char:EOLhyphen"/>bat quinquam in omni Dominatione ſua conſtitutum, Ro<g ref="char:EOLhyphen"/>manae <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rbis Pontificem, pro Apoſtolico, niſi ſe jubente re<g ref="char:EOLhyphen"/>cipere, aut ejus Literas ſi primitus ſibi oſtenſae non fuiſſent ullo pact<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſuſcipere, Primatum quoque regni ſui, <hi>Archie<g ref="char:EOLhyphen"/>piſcopum</hi> dico <hi>Cantuarienſem,</hi> ſi coacto generali Epiſ. <hi>coporum Concilio,</hi> praeſideret, <hi>Non ſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ebat quicquam <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>atuere vel prohibere,</hi> niſi quae ſuae volunt ati accommo<g ref="char:EOLhyphen"/>data, et à ſe primo eſſent ordinata. Nulli nihilominus Epiſcoporum conceſſum iri permittebat, at aliquem de Ba<g ref="char:EOLhyphen"/>ronihus ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Miniſtris, ſive inceſto, ſive adulterio, ſive a<g ref="char:EOLhyphen"/>liquo capitali crimine denotatum, publicè uiſi ejus pracep<g ref="char:EOLhyphen"/>to</hi>
+                  <pb n="22" facs="tcp:115461:13"/>
+implacitaret aut <hi>excommunicaret,</hi> qut ulla Eccleſtaſti<g ref="char:EOLhyphen"/>ci rigoris poena co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtringeret: <hi>Therefore not to ſuſpend or ſeclude them from the Sacraments, (much leſſe, thoſe no wayes guilty of ſuch ſcandalous ſins or other crimes) as now our Miniſters do their Pariſhioners, without a<g ref="char:EOLhyphen"/>ny divine, regal, or legal Authority, but their own Pa<g ref="char:EOLhyphen"/>pal uſurpation, Pride or Peeviſhneſs.</hi>
+               </p>
+               <p>6ly. This is moſt apparent by the uſual known print<g ref="char:EOLhyphen"/>ed Writs <note n="b" place="margin">Fitz Nat. Bre. f. 153, 154. Regiſter of Writs.</note> 
+                  <hi>De Procedendo ad Iudicium,</hi> when any Judge or Court of Juſtice delays the Plaintiff or Defendant of his right, in not giving Judgement for them, when and ſo ſpeedily as they might <note n="c" place="margin">Fit. Nat. Bre. f. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9. Regiſter of Writs.</note> 
+                  <hi>De Libertatibus all<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>can<g ref="char:EOLhyphen"/>dis,</hi> when the Juſtices of the King, <hi>Eyre, or Forreſt,</hi> deny or delay to grant any Burrough or Perſon the an<g ref="char:EOLhyphen"/>tient liberties they formerly enjoyed by Charter or pre<g ref="char:EOLhyphen"/>ſcription. The Writ <note n="d" place="margin">Regiſter of Writs Fit. N. Bre. f. 234. Clauſe 20 E. 3 part 1. m. 18. 14.</note> 
+                  <hi>De Leproſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> amovendo</hi> to the <hi>May<g ref="char:EOLhyphen"/>or of London</hi> and other Officers, to remove Leapers which infect the people, and <hi>De villis &amp; venellis mundandis,</hi> when they neglect to remove the one, and clenſe the other, as they ought. <hi>The ſeveral</hi> 
+                  <note n="e" place="margin">Pat. 14 E. 1. pars 1. dorſ. 2. Pat. 18, E. 1. m. 4. 5. &amp; dorſ 8, 9. 44 Clauſ. 4. E. 3. m. 2. Clauſ. 11. E. 3. pars 2. m. 10 Clauſ. 48. E. 3. m. 22. Clauſ. 10. E. 3. m. 28.</note> 
+                  <hi>Writs to Sheriffs and others, to repair Highways, Bridges, Walls, Seaba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ks, and the like,</hi> extant in the <hi>Clauſe and Patent Rolls,</hi> before any Statutes made for their repair: The Writs <note n="f" place="margin">Fit. Nat. Bre. f. 228, 229. 163, 164.</note> 
+                  <hi>De reparation <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> facienda, De Cu<g ref="char:EOLhyphen"/>ria claudend, &amp; Quod permittat,</hi> to particular perſons to repair Houſes and fences, when they neglect to do it, and are bound thereto, by Law, and to enjoy their Commons, rights, &amp;c. with manyother Writs of this Na<g ref="char:EOLhyphen"/>ture to temporal Officers, perſons: By theſe enſuing Writs to Eccleſiaſtical perſons, as namely the uſual <hi>Writs</hi> to Biſhops <note n="g" place="margin">Fit. Nat. Bre f. 38, 39. 63. 64 65. and the Regiſter of Writs.</note> 
+                  <hi>Ad admittendum Clericum, &amp; De Cautio<g ref="char:EOLhyphen"/>ne ad<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tenda, to inforce them to admit Clerks, and ab<g ref="char:EOLhyphen"/>ſolve excommunicate perſons upon caution tendred, when they refuſed to doe it againſt Right and Law.</hi> To which I ſhall add, <hi>Clauſ. 24. E. 1. dorſ.</hi> 10. and 8. <hi>Clauſ. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. E. 1. dorſ. 9. Clauſ. 33. E. 1. dorſ. 16 Clauſ. 34. E. 1. dorſ. 10. Clauſ. 8. E. a. m. 25. Clauſ. 20. E. 2. dorſ.</hi>
+                  <pb n="11" facs="tcp:115461:13"/>
+16. 11. <hi>Clauſ. 7. E. 3. pars 2. m. 4. Where ſeveral Writs are directed to the Biſhops and Clergy men, to make ſpecial Prayers and Supplications for the King and his Children, the Nobles and State of the Realm, upon ſeve<g ref="char:EOLhyphen"/>ral occaſions in times of war and danger; to make ſpecial Thankſgivings for Victories, and interceſſions for emi<g ref="char:EOLhyphen"/>nent perſons Souls departed,</hi> as they were then obliged to do in thoſe times of Superſtition.</p>
+               <p>But that which comes neareſt to our caſe, and is the ſame in ſubſtance (<hi>Confirmation and Criſme</hi> being for<g ref="char:EOLhyphen"/>merly reputed <note n="*" place="margin">See <hi>Lynde<g ref="char:EOLhyphen"/>w ed Summa Angelica, Ro<g ref="char:EOLhyphen"/>ſella &amp; Tho<g ref="char:EOLhyphen"/>mas Z<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>la Praxis Epiſ<g ref="char:EOLhyphen"/>copal. 1 Tit. Criſma &amp; Confirmatio Sacramentum.</hi>
+                  </note> 
+                  <hi>Sacraments amongst us in times of Po<g ref="char:EOLhyphen"/>pery</hi>) is this memorable caſe, recorded in <hi>Rot. Clauſ. An. 26. E.</hi> 3. The Biſhop of <hi>Exeter</hi> would have viſi<g ref="char:EOLhyphen"/>ted the Church of St. <hi>Burian</hi> in <hi>Cornwall,</hi> founded by King <hi>Arthur,</hi> and exempted from Epiſcopal juriſdicti<g ref="char:EOLhyphen"/>on, whereupon they oppoſing his Viſitation, <hi>the Bi<g ref="char:EOLhyphen"/>ſhop interdicted the Pariſh, and refuſed to give them oyl and criſme to baptize their Infants, or to confirm their Children:</hi> Vpon complaint whereof to the King, <hi>there iſſued a writ out of the Chancery to the Biſhop,</hi> comman<g ref="char:EOLhyphen"/>ding him to abſolve them, <hi>Confirmare parvules, &amp; Criſma mittere,</hi> to confirm their Children, and ſend them Criſme to baptize their Infants. This Record was vouched and ſhewed to the Judges of the Kings Bench, <hi>Mich. 17 Jacobi,</hi> upon this occaſion. The Pariſhioners of a Village in <hi>Kent,</hi> elected a Churchwarden according to their ancient Cuſtom, but the <hi>Biſhops Official refuſed to admit him;</hi> whereupon the Pariſhioners, by Mr. <hi>Noy</hi> their Counſell moved in the <hi>Kings Bench for a Writ and Mandamus to the Official, to admit the Church<g ref="char:EOLhyphen"/>warden, or if he did not to ſhew good cauſe to the Court why he refuſed to do it; which the Court upon view of this preſident granted them, and upon it the Church-warden was admited to his Office:</hi> If then our Kings, and their Courts of <hi>Chancery</hi> and <hi>Kings Bench</hi> might enjoyn this Biſhop and this Official by ſpecial <hi>Writs</hi> and <hi>Mandates</hi> to abſolve theſe interdicted Pariſhoners, confirm their
+<pb n="24" facs="tcp:115461:14"/>
+Children, and ſend them Criſme to baptiſe their Infants, and to admit the Churchwarden the others had choſen according to their duties, by the Statutes of 13 E. 1. c. 24, 25, 50. forecited, or by their own inherent juriſ<g ref="char:EOLhyphen"/>diction without any ſpecial <hi>Act of Parliament,</hi> being things to which they were obliged by our Laws &amp; their very offices, duties to perform; Then by the ſelf ſame Law and reaſon, may our Kings and Courts of Iuſtice upon all occaſions, by virtue of theſe Statutes, whereon theſe writs were principally grounded, iſſue forth the like writs and mandates to all Miniſters and Vicars who refuſe perſonally to baptize or deliver the Lords Supper to their Pariſhioners at due and accuſtomed ſeaſons, or to admit them freely to thoſe Sacraments, according to their bounden duties, to which their very Office with the Lawes of God and the Realm oblige them, unleſſe they can ſhew a legal cauſe to the contrary (as none of them can do) and in caſe they refuſe to do it, they may thereupon be attached, fined, impriſoned, till they doe conform, and aſſent to do it; as well as in the Caſe of a <note n="*" place="margin">37 H: 6. 14 Broke, <hi>Quid Juris clamat</hi> 18. Impriſon<g ref="char:EOLhyphen"/>ment 26. 3 E. 3. <hi>Per quae ſervitia,</hi> Fitzh. 17. Aſh At tornment 9. &amp; 12.</note> 
+                  <hi>Quid Juris clamat,</hi> or <hi>Per quae ſervicia,</hi> by which any tenant where <hi>he is bound and adjudged by Law to attorn, &amp; refuſeth to do it, ſhall be impriſoned till he actually at<g ref="char:EOLhyphen"/>torn in proper perſon; (not by Deputy,</hi> w<hi rend="sup">ch</hi> the Law will not admit) it being a <hi>perſonal duty,</hi> not performable by any other. I ſhall conclude this with that memorable Record of <hi>Pat. 8. E. 1. m.</hi> 27. where the <hi>King</hi> by his writs com<g ref="char:EOLhyphen"/>manded all his <hi>Sheriffs, Bayliffs, and Lieges, effectually to ſummon, admoniſh, and induce all the Jews within their Bayliwicks, diligently to meet together to</hi> hear Gods word <hi>preached to them by the Friers Predicants without tumult, contention or blaſphemy, and not to hinder any Jews from Converſion whoſe hearts God ſhould pleaſe to convert;</hi> As you may read at large in the <hi>Second Part of my Short Demurrer to the Iews long diſcontinued Re<g ref="char:EOLhyphen"/>mitter into</hi> England, p. 87, 88. And if our Kings by their Writs might lay ſuch Injunctions on the Vnbelieving Engliſh Iews, much more may they enjoyn all Engliſh
+<pb n="27" facs="tcp:115461:14"/>
+Miniſters to adminiſter the Sacraments to their people, and they for to frequent and receive them, eſpecially when ſo long diſcontinued, neglected, ſlighted, deny<g ref="char:EOLhyphen"/>ed, to Gods diſhonour, Religions ſcandal, our Churches infamy, good Chriſtians greateſt grief, the grand increaſe of Impiety, Prophaneſſe, Sciſme, and decreaſe of Chriſti<g ref="char:EOLhyphen"/>an Amity, Unity, Zeal, that cordial Brotherly love and ſweet Communion which was between Miniſters &amp; their people, &amp; between privat Chriſtians hertofore when Sa<g ref="char:EOLhyphen"/>craments were more frequent. Finally, If any Parſon or Vicar for 2. years ſpace refuſe and ceaſe to adminiſter the Sacraments to his Pariſhioners (as many of late times have done) I conceive a Writ of <hi>Ceſſavit</hi> will lie againſt him by the <hi>Patron</hi> upon the <hi>Stat.</hi> of <hi>Weſt.</hi> 2. 13. E. 1. c. 41. as <hi>Fitzh. Natura Brev.</hi> f. 209. L. 5. E. 3. 25. b. <hi>Re<g ref="char:EOLhyphen"/>giſter</hi> f. 238. <hi>Fit. Ceſſavit,</hi> 12. 18, 24. 12. H. 4. 24. 45 E. 3. 10. Ploud. fo. 58. <hi>Cook</hi> 4. Rep. f. 118. 11 Rep. f. 63. &amp;2. Inſtit. f. 460. more then intimate, if not ful<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y reſolve.</p>
+               <p>Theſe Legal remedies, if purſued in a juſt &amp; Chriſtian way, may through Gods bleſſing reduce many refracto<g ref="char:EOLhyphen"/>ry <hi>Parochial Miniſters</hi> and <hi>Vicars,</hi> to the due admini<g ref="char:EOLhyphen"/>ſtration of the Sacraments to their Pariſhioners, which too many of them have of late totally, and divers in a deplorable meaſure caſt off; reſtore the comfortable, fre<g ref="char:EOLhyphen"/>quent enjoyment of them to thoſe Pariſhoners who have a long time earneſtly thir<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed after them, and prevent the Anabaptiſtical, Jeſuitical deſign of <note n="g" place="margin">His Voice from the Tem<g ref="char:EOLhyphen"/>ple. See my <hi>Jus Patrona<g ref="char:EOLhyphen"/>tus.</hi>
+                  </note> 
+                  <hi>John Canne</hi> with his Fraternity, and others of late years crept into <hi>Paro<g ref="char:EOLhyphen"/>chial Cures,</hi> of purpoſe to ſubvert them, with all other Parochial Congregations, and all Patrons rights to pre<g ref="char:EOLhyphen"/>ſent unto them; A deſign moſt eagerly proſecuted, pub<g ref="char:EOLhyphen"/>likely avowed, and much advanced of late years by un<g ref="char:EOLhyphen"/>chriſtian and illegal practiſes, gilded over with religious Pretences: This is the Opinion and Judgement (in an<g ref="char:EOLhyphen"/>ſwer to your Caſe and <hi>Quaeres</hi>) of your Friend and Counſellor,</p>
+               <closer>
+                  <dateline>Lincolns Inne, <date>20 Iunii, 1656.</date>
+                  </dateline>
+                  <signed>WILL: PRYNNE.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Errata p. 3. l. 10. r, <hi>porrigend: p. 5. l. 8. it was.</hi> p. 7. l. 1. 29. r. 23. p. 20: l. 20. <hi>Legeis.</hi>
+            </p>
+         </div>
+         <div type="appendix">
+            <pb facs="tcp:115461:15"/>
+            <pb n="29" facs="tcp:115461:15"/>
+            <head>AN APPENDIX.</head>
+            <p>OUr Vicars and Miniſters refuſal to adminiſter the Sacraments to their Pariſhioners, is in truth an actuall penal ſuſpenſion and excommunica<g ref="char:EOLhyphen"/>tion of them, without any precedent citation, Articles, legal proceeding, hearing, or ſentencdenounced againſt them in any Eccleſiaſtical Claſſis, or Iudicature, Wherefore as King <note n="*" place="margin">Pat, 25. E. 1. pars 1. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10. 12. pars. 2. m. 5. Clauſ. 25. E. 1. dorſ. 6. Clauſ. 30, E. 1. dorſ. 14. Clauſ. 12. E. 2. m. 12. Clauſ. 15. E. 3. pars 1. dorſ. 39, 40.</note> 
+               <hi>Edward</hi> 1, 2, and 3. did iſſue forth <hi>ſeveral Writs</hi> and <hi>Mandates</hi> to their <hi>Biſhops</hi> and <hi>Clergy,</hi> not to <hi>convent, queſtion, cenſure, excommunicate any of their Officers, or Subjects within their Dominions, for diſ<g ref="char:EOLhyphen"/>charging their Duties, and duly obeying their Mandates and to abſolve all thoſe they had excommunicated upon this account:</hi> and likewiſe iſſue out Writs to their Sheriffs, <hi>De promulga<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tibu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſententiam excommunicati<g ref="char:EOLhyphen"/>onis in Miniſtros Regis capiendis &amp; impriſonandis,</hi> for obeying their commands. So by like Juſtice, reaſon, may Writs be iſſued to all thoſe <hi>Vicars</hi> and Miniſters who deny the Sacraments to their Pariſhioners, with<g ref="char:EOLhyphen"/>out any legal cauſe, or ſentence of ſuſpenſion or excom<g ref="char:EOLhyphen"/>munication firſt denounced againſt them, to admit them to the Sacraments, and adminiſter them duly to them; yea writs to the Sheriffe to attach and impriſon them in caſe of their willfull neglect or contempt herein. <hi>Clauſ. 12 E. 2. m. 20. The Arch. biſhop of York</hi> and his Mini<g ref="char:EOLhyphen"/>ſters oppreſſed, vexed the people of his Dioceſſe in his Courts, &amp; Viſitations by malicious citations for preten<g ref="char:EOLhyphen"/>ded adulteries, and other Eccleſiaſtical crimes, before they were publickly defamed of, or preſented for them, and for which they could not aid themſelves by the <hi>Kings Prohibition,</hi> they having legal conuſans of theſe crimes. Upon Petition to the King and his Counſel a<g ref="char:EOLhyphen"/>gainſt theſemalicious citations, by the people, there iſſu<g ref="char:EOLhyphen"/>ed a <hi>ſpecial Writ</hi> to the Biſhop, reciting and prohibiting
+<pb n="30" facs="tcp:115461:16"/>
+ſuch Citations and proceedings for the future; <hi>De Op<g ref="char:EOLhyphen"/>preſſionibus populo per Citationes non inferendis.</hi> By like reaſon and equity may ſpecial writs now be granted to Miniſters; not to oppreſſe, vex, injure their Pariſhioners, by depriving them of the Sacraments at due and accu<g ref="char:EOLhyphen"/>ſtomed ſeaſons, farre worſe than theſe malicious Citati<g ref="char:EOLhyphen"/>ons, which were but <hi>Eccleſiaſtical Proceſs,</hi> when as theſe amount at leaſt to <note n="*" place="margin">And that for ſundry months, nay years, many whole Cities, and Pariſhes.</note> 
+               <hi>Eccleſiastical Cenſures, Suſpen<g ref="char:EOLhyphen"/>ſions, Excommunications</hi> from the Sacraments. In times of Popery, if any Religious perſon or Monk profeſſed, <hi>departed from his houſe, and wandred abroad in the Coun<g ref="char:EOLhyphen"/>try</hi> againſt the rules of his Religion or Order, upon a Certificate thereof in <hi>Chancery</hi> by the Abbot, there iſſu<g ref="char:EOLhyphen"/>ed a Writ <hi>de</hi> 
+               <note n="*" place="margin">The Regiſter, Fitz. Nat. B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>f. 233, 234.</note> 
+               <hi>Apostata Capiendo</hi> (of which I find <note n="*" place="margin">Pat. 25 H. 3. dorſ. 8. Pat 39. H. 3. m. 10. Pat. 47 H. 3. pars 1. m. 20. Pat. 49. H. 3. m. 2. Pat. 53 H. 3. m 31. Pat. 54 H. 3. m. 28. Pat 3 E. 1. m. 19. Pat. 4 E. 1. m. 29. Pat. 9 E. 1. m. 22. Clauſ. 12. E. 2. dorſ. 12. Clauſ. 25. E. 3. pars 1. dorſ. 14.</note> 
+               <hi>ma<g ref="char:EOLhyphen"/>ny preſidents in our Records</hi>) for the Sheriffs to appre<g ref="char:EOLhyphen"/>hend and deliver him to his Abbot or his Attorney, to be chaſtiſed according to the rules of his Order. And if any Preiſts wore long hair (againſt the Canons and rules of their Order, in the Kings Court) where the Or<g ref="char:EOLhyphen"/>dinaries had no power to reform them, the King him<g ref="char:EOLhyphen"/>ſelf granted a ſpecial Writ and Commiſſion to certain perſons, giving them <hi>plenam poteſtatem ſcindendi capillos Clericorum qui ſunt in Hoſpitio nostro et famili<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nostra longo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Crines habentium, et capillos nutri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntium, &amp;c.</hi> Pat 21 H. 3. Do<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ. 3. By the like and better reaſon then may ſpecial Writs be iſſued, to reduce Miniſters of<g ref="char:EOLhyphen"/>fending in, &amp; apoſtatizing <hi>from the very eſſential duties of their function,</hi> (not in circumſtantials only, as theſe in former times) to the due execution of the du<g ref="char:EOLhyphen"/>ties of their function, &amp; adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments to their Pariſhioners, according to the rules of their Order, the Statutes of the Realm, the Doctrine, Cuſtom of the Church of <hi>England,</hi> ſo much now ſligh<g ref="char:EOLhyphen"/>ted, contemned by them, to Gods diſhonor, the vilipen<g ref="char:EOLhyphen"/>ding of their Miniſtry, function, yea the Sacraments themſelves, and their peoples grief, offence, and Spiri<g ref="char:EOLhyphen"/>tual prejudice, who may doubtleſs have a <note n="*" place="margin">See Brooke, Fitzh. Aſh. Action ſur le Statute.</note> 
+               <hi>ſpecial acti<g ref="char:EOLhyphen"/>on at law againſt</hi> them, on the Statute of 1 Ed. 6. &amp; 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eliz. c. 2. for their relief herein.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
